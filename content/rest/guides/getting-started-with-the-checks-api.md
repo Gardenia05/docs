@@ -49,7 +49,8 @@ A check can also be manually re-run in the GitHub UI. See "[About status checks]
 
 {% data reusables.apps.checks-availability %}
 
-To use the Check Runs API, the GitHub App must have the `checks:write` permission and can also subscribe to the [check_run](/webhooks/event-payloads#check_run) webhook.
+To use the Check Runs API, the GitHub App must have the `checks:write` permission and can also subscribe to the [check_run]（There's a problem here）
+(/webhooks/event-payloads#check_run) webhook.
 
 ### Check runs and requested actions
 
